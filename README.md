@@ -1,5 +1,5 @@
 # Data-Analyst
 
-Dépôt des exercices sur le courts Analyse de Données.
+Dépôt des exercices sur le cours Analyse de Données.
 
 ## Description
